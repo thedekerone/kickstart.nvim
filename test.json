@@ -1,0 +1,489 @@
+{
+ "pk": "FEED_DATA_LEVELS",
+ "levels": [
+  {
+   "level_id": "3fa4d5bb4e9af5b299273641c1a039d2",
+   "level_name": "CP 16-19%"
+  },
+  {
+   "level_id": "a7152eedd627776e187d1b7027f2ed9d",
+   "level_name": "Urea"
+  },
+  {
+   "level_id": "40f76c3d2c6cc88377db4e3daad7e8ff",
+   "level_name": "Oil<5%, CF<15%"
+  },
+  {
+   "level_id": "525701f7c3a4ec56c8ead05cf89c46e6",
+   "level_name": "Maize starch"
+  },
+  {
+   "level_id": "54d336df2a493822dfc289a2a85f88e4",
+   "level_name": "Potato pulp"
+  },
+  {
+   "level_id": "d39f753f0f1b2cb0669ce94d6e0822fa",
+   "level_name": "Grass haylage"
+  },
+  {
+   "level_id": "a4894fcaf4513681e5be051c2f73766c",
+   "level_name": "Legume haylage"
+  },
+  {
+   "level_id": "0a73e01879b95ebe8243c6c0203af55f",
+   "level_name": "Cut 1"
+  },
+  {
+   "level_id": "9398ea455efa77d551ef2ecf8e090048",
+   "level_name": "Dehydrated forages"
+  },
+  {
+   "level_id": "4da0400dd6a3c0b077e34ab1fe12fc57",
+   "level_name": "Rye"
+  },
+  {
+   "level_id": "cf4e9a1a7d0941e72098fc2002baf5e1",
+   "level_name": "Wheat by-products"
+  },
+  {
+   "level_id": "a59caffef7a63598e30f18e784c501d3",
+   "level_name": "Soybean hulls"
+  },
+  {
+   "level_id": "e216bbfe2b98878543e3d63f66dd6b8e",
+   "level_name": "Cereals and by-products"
+  },
+  {
+   "level_id": "150bfe46b899b6f2092b63d3be856304",
+   "level_name": "CP 8-18%, oil 5-14%"
+  },
+  {
+   "level_id": "55f67100fede4617141bf9a033a255a9",
+   "level_name": "Sunflower seed"
+  },
+  {
+   "level_id": "f72793776a4b1f90cc0c8717581e248d",
+   "level_name": "Barley"
+  },
+  {
+   "level_id": "4b29d9f4b96c50c932bd16da9facfb22",
+   "level_name": "Beet pulp"
+  },
+  {
+   "level_id": "8d6c82bda6117b604efc260229974176",
+   "level_name": "Pressed"
+  },
+  {
+   "level_id": "93e8016d5bfc78b0fb049f6804d438d4",
+   "level_name": "Triticale"
+  },
+  {
+   "level_id": "8767b2a2b576334bb2fb67871e7b5f13",
+   "level_name": "Legumes and oilseeds"
+  },
+  {
+   "level_id": "31183692dce74ed084899eb46c710a07",
+   "level_name": "Mix grass/legume hay"
+  },
+  {
+   "level_id": "5dc241c9ea027ef1516518b741f22599",
+   "level_name": "Oil 5-20%"
+  },
+  {
+   "level_id": "a402fa36af13c23b2c0cc79842bd3e61",
+   "level_name": "Brewers' dried grains"
+  },
+  {
+   "level_id": "a3ef33b3751dd33f84262a0672b70320",
+   "level_name": "Teff"
+  },
+  {
+   "level_id": "6f7161629eef6b8d7b2701ce07cf14e6",
+   "level_name": "Cereals"
+  },
+  {
+   "level_id": "314e5f277548b209cac420d78e1eb6f7",
+   "level_name": "Wheat distiller's grain"
+  },
+  {
+   "level_id": "76af77ed8b09341be8b1d058c894fab2",
+   "level_name": "Maize by-products"
+  },
+  {
+   "level_id": "0e03feb18fc0f4f2cb63baa0e7f31530",
+   "level_name": "general"
+  },
+  {
+   "level_id": "3db8bffba54a0b04c4e404b3881258da",
+   "level_name": "Cut1"
+  },
+  {
+   "level_id": "15876e501e9e3d6a8e0e337ab655bde9",
+   "level_name": "Grass"
+  },
+  {
+   "level_id": "b1aa75c71809db82d94d4846b7ee1f4b",
+   "level_name": "Ryegrass/clover"
+  },
+  {
+   "level_id": "014e709548a918c96e5f98c43dfd29a0",
+   "level_name": "Grass hay"
+  },
+  {
+   "level_id": "a384a2bc599f0488d37912e5257b2897",
+   "level_name": "CP 8-18%, oil<5%"
+  },
+  {
+   "level_id": "322988e67f51b68ecb56c7fe3b523d0d",
+   "level_name": "Linseed"
+  },
+  {
+   "level_id": "9196090cb5838ff4e5f52578e9076d3e",
+   "level_name": "Palm kernel meal"
+  },
+  {
+   "level_id": "b26178d7d9fec3c607ec8be2b8b90613",
+   "level_name": "Pulp"
+  },
+  {
+   "level_id": "ab4bd770f612b1b3b36702114b3a63f2",
+   "level_name": "Level 4"
+  },
+  {
+   "level_id": "35664bc358ea498493260c85c140f478",
+   "level_name": "CP 19-22%"
+  },
+  {
+   "level_id": "075d430605b88f86536beeffd2876a01",
+   "level_name": "Corn gluten meal"
+  },
+  {
+   "level_id": "ac4d8a92b9318c66d452982d261314ec",
+   "level_name": "Chicory pulp"
+  },
+  {
+   "level_id": "d4582392490b4d89abb7e3b837ebbb15",
+   "level_name": "Sunflower hulls "
+  },
+  {
+   "level_id": "18deaa33aa6656a772d271ebdf435178",
+   "level_name": "Level 1"
+  },
+  {
+   "level_id": "6cabdcb8b5dbe64b113080b00bc78ccb",
+   "level_name": "Level 3"
+  },
+  {
+   "level_id": "084e082876b34e9082fadb53c7f6d55a",
+   "level_name": "CP 22-25%"
+  },
+  {
+   "level_id": "797e7e86629320822583021b1e8c2441",
+   "level_name": "Maize"
+  },
+  {
+   "level_id": "f0a97c1bde1c7cf0b4af40355690aa1a",
+   "level_name": "Wheat middlings"
+  },
+  {
+   "level_id": "36d73c25adeae269d9b0b409b2132f34",
+   "level_name": "Tall fescue"
+  },
+  {
+   "level_id": "982898e479d8f94f845d873355f297fc",
+   "level_name": "Soybean"
+  },
+  {
+   "level_id": "ebd72e2da857041ffd214ca98cbf264b",
+   "level_name": "Ryegrass"
+  },
+  {
+   "level_id": "a671b067455cd410b63c2378cf5ec3fd",
+   "level_name": "Mix grass/legume haylage"
+  },
+  {
+   "level_id": "cc8dec82d4e24fc1bb62a7e49f1fec8c",
+   "level_name": "Red Clover"
+  },
+  {
+   "level_id": "1db494cee8aac58bac153aabed63ee61",
+   "level_name": "CP>25%"
+  },
+  {
+   "level_id": "3df1873e73eaaf6812c812fb21608d09",
+   "level_name": "Wheat gluten"
+  },
+  {
+   "level_id": "2ca688b088218dc6471e41372ab05e00",
+   "level_name": "Sunflower meal"
+  },
+  {
+   "level_id": "15f7a0a8d91b95d7edf6d3a07e591780",
+   "level_name": "Alfalfa"
+  },
+  {
+   "level_id": "13480a91b093f607da18cf1224edfbfa",
+   "level_name": "Legume"
+  },
+  {
+   "level_id": "3b37ba1a1dacf174efbfc9c5ce6cb80c",
+   "level_name": "Rapeseed"
+  },
+  {
+   "level_id": "6eac4fb037417a9d4966425b4f43648a",
+   "level_name": "Pea"
+  },
+  {
+   "level_id": "f867195f639407563ebdc0d278b0161b",
+   "level_name": "Silages"
+  },
+  {
+   "level_id": "e3f18790877a88b561b374f12e8790c7",
+   "level_name": "Haylage"
+  },
+  {
+   "level_id": "ac096e781ff098ed9c07f0d7f456a0d3",
+   "level_name": "Legume hay"
+  },
+  {
+   "level_id": "b351d4b4776d1c33bf32788abb5b695e",
+   "level_name": "Wheat gluten feed"
+  },
+  {
+   "level_id": "bb02af422d2d9656a4c204ea160d1e01",
+   "level_name": "Maize bran"
+  },
+  {
+   "level_id": "9c707552d118f93324c2faea8f890223",
+   "level_name": "Vetch"
+  },
+  {
+   "level_id": "d6491e671159a45c99d53aa73aacdb93",
+   "level_name": "Fresh forages"
+  },
+  {
+   "level_id": "314bac0fd0c1ec25bddfda8423b2ed3d",
+   "level_name": "Maize distiller's grain"
+  },
+  {
+   "level_id": "9cdefe2de8f43958f714348d83e894b1",
+   "level_name": "Oil seed meals"
+  },
+  {
+   "level_id": "be3c5431c4c060b3cd10b000090d26cb",
+   "level_name": "Oil 5-20%, CF<15%"
+  },
+  {
+   "level_id": "d1aef457f4614e4c18cd759b51f03900",
+   "level_name": "Bermuda grass"
+  },
+  {
+   "level_id": "5bef1e79370d124b7d1d65d3591feb0b",
+   "level_name": "Sudan grass"
+  },
+  {
+   "level_id": "3669f7e4bcff42a29ee6cf99a6aadc9e",
+   "level_name": "Wheat bran"
+  },
+  {
+   "level_id": "941aa1f577354895ddf1c443110f3986",
+   "level_name": "Rapeseed meal"
+  },
+  {
+   "level_id": "00c796d338852d10afd7de8a0336baa8",
+   "level_name": "Cottonseed meal"
+  },
+  {
+   "level_id": "5f8a1f020c93b01c520783d6b47697c1",
+   "level_name": "Oil<6%"
+  },
+  {
+   "level_id": "ae68a9a13101270c7fcdd2dc14f3ff6b",
+   "level_name": "Mix grass/legume"
+  },
+  {
+   "level_id": "1d921ff62e820c4d6e26be8d11e563ef",
+   "level_name": "Perennial Ryegrass"
+  },
+  {
+   "level_id": "6d24f04deacad1b8525c9e1c81b36231",
+   "level_name": "Straw"
+  },
+  {
+   "level_id": "2815647e36088bb95275b7b347bdd027",
+   "level_name": "Oil>30%"
+  },
+  {
+   "level_id": "84dd232e68755bf441e8e92841178a87",
+   "level_name": "Linseed meal"
+  },
+  {
+   "level_id": "c914bd0afb649102f9b2b554c6eadc23",
+   "level_name": "Hay"
+  },
+  {
+   "level_id": "a9b388e3a8413d86845eb99ca3f2f920",
+   "level_name": "Starch, roots and tubers"
+  },
+  {
+   "level_id": "2a75eafc2cde720df0ff656fcbd2235b",
+   "level_name": "Orchard grass"
+  },
+  {
+   "level_id": "71cae46bec4ee9c6ae8c4e3b2c8c3b2f",
+   "level_name": "Legume silage"
+  },
+  {
+   "level_id": "a3a198619eb28782bbf229feecaaa948",
+   "level_name": "CP<16%"
+  },
+  {
+   "level_id": "5a439c6c43288e5ea43b00b77e9a3252",
+   "level_name": "Sorghum"
+  },
+  {
+   "level_id": "2088a7510311924b8ae15a617cb9a3a5",
+   "level_name": "Lupin"
+  },
+  {
+   "level_id": "74f5be0667664e3a5e1652a865885ae1",
+   "level_name": "Cut 2+"
+  },
+  {
+   "level_id": "0e112eabc26f098ecf4f1eaf33cc069d",
+   "level_name": "Level2"
+  },
+  {
+   "level_id": "869fe9d90c95e59b056cc730d7886c08",
+   "level_name": "High moisture"
+  },
+  {
+   "level_id": "a2d59116c3eae8aedf94707e92639117",
+   "level_name": "Oil<5%"
+  },
+  {
+   "level_id": "e1c79db9e8932d09254c7890c52b4ef6",
+   "level_name": "Oil>6%"
+  },
+  {
+   "level_id": "df4479ee0957f132fd3211dc7b2a742b",
+   "level_name": "Mix grass/legume silage"
+  },
+  {
+   "level_id": "15952e0245d5dbaa71e9ffffc8e59d81",
+   "level_name": "Annual ryegrass"
+  },
+  {
+   "level_id": "1e02fcfb5ea28b41e340b76da5ada1f9",
+   "level_name": "Millet"
+  },
+  {
+   "level_id": "b886bacb1e411f1cf22d3a11e1b216e3",
+   "level_name": "Cottonseed"
+  },
+  {
+   "level_id": "25f30af8b3f8643d6c5d2cd4535a71b6",
+   "level_name": "Soybean meal"
+  },
+  {
+   "level_id": "681a4ba4d25dc28156c61b8c3a6d69a8",
+   "level_name": "Bromegrass"
+  },
+  {
+   "level_id": "bfa46473de0bdbe8af724d9bd274229a",
+   "level_name": "Grass silage"
+  },
+  {
+   "level_id": "738958690024cf6fd049476193065aac",
+   "level_name": "Maize processing by-products"
+  },
+  {
+   "level_id": "3677040ddd11f7c679673482ce8508dc",
+   "level_name": "CP 8-18%, oil 14-30%"
+  },
+  {
+   "level_id": "2e499327a234a864aa9e9bada782cb7e",
+   "level_name": "Corn silage"
+  },
+  {
+   "level_id": "256223b5c0bd50e63b25a56c448d6208",
+   "level_name": "Oil 5-20%, CF 15-20%"
+  },
+  {
+   "level_id": "b1da2c6c849c3c854f94c3cef7fef1a5",
+   "level_name": "Oil from vegetal origin"
+  },
+  {
+   "level_id": "07b44fe324f88d3eca0002d4f58c9e0a",
+   "level_name": "Clover"
+  },
+  {
+   "level_id": "8457e2ca1bede667a75f7fe1d871e75b",
+   "level_name": "Orchardgrass"
+  },
+  {
+   "level_id": "54e418625f6ac510524b89982e578330",
+   "level_name": "Other cereal by-products"
+  },
+  {
+   "level_id": "0a1a28905b209acd7093c5c93124db96",
+   "level_name": "Dried"
+  },
+  {
+   "level_id": "1910e8633d611e8e7031ecf0938c5364",
+   "level_name": "Other legumes"
+  },
+  {
+   "level_id": "8539b6be96f4b187898e4e9fdde3327e",
+   "level_name": "Legumes and oil seeds meals"
+  },
+  {
+   "level_id": "32f3fffac02a38a57e3df166c2e2ed86",
+   "level_name": "Oil<5%, CF 15-20%"
+  },
+  {
+   "level_id": "9a124b3b84eb67b9983484d9efe06423",
+   "level_name": "Other"
+  },
+  {
+   "level_id": "05470e2576e8e8f732450e6a624ac693",
+   "level_name": "Permanent grassland"
+  },
+  {
+   "level_id": "52b9439fc57636fadbbf72770ad1bbbf",
+   "level_name": "White clover"
+  },
+  {
+   "level_id": "a5ab6a06319847b58f1b56d54728a305",
+   "level_name": "Oats"
+  },
+  {
+   "level_id": "d71cfa70c0d8aa53097c8610736d1ccf",
+   "level_name": "Wheat feed flour"
+  },
+  {
+   "level_id": "0fd708679f452d4108bcfe5c22e20b0b",
+   "level_name": "Maize germ meal"
+  },
+  {
+   "level_id": "8131b189739d12096950b05d7db4108e",
+   "level_name": "Alfalfa protein concentrate"
+  },
+  {
+   "level_id": "0fd5a87828d23a47abc8a9a1842c14b5",
+   "level_name": "Timothy grass"
+  },
+  {
+   "level_id": "bf507474171b5d68d8dda413cf5cf3c7",
+   "level_name": null
+  },
+  {
+   "level_id": "1517262ce4e7b01ce72d652b4447650b",
+   "level_name": "Wheat"
+  },
+  {
+   "level_id": "d6e50c28e83b108561a9c73df76d434a",
+   "level_name": "Bean"
+  }
+ ]
+}
